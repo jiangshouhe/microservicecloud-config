@@ -3,7 +3,7 @@ spring:
     active:
     - dev
     
------
+---
 server:
   port: 8001
 
@@ -49,7 +49,7 @@ info:
   
   
   
------
+---
 server:
   port: 8001
 
